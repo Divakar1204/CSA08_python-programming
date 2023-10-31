@@ -1,0 +1,4 @@
+Radio singals can be used to lock and
+unlock the doors in a car from a distance.
+sound can be sent by radio, sometimes through
+frequency modulation (FM) or amplitude modulation (AM).
